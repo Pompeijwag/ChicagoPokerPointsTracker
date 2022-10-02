@@ -1,0 +1,17 @@
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\bin\Debug\net6.0-windows\ChicagoPokerPointsTracker.exe
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\bin\Debug\net6.0-windows\ChicagoPokerPointsTracker.deps.json
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\bin\Debug\net6.0-windows\ChicagoPokerPointsTracker.runtimeconfig.json
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\bin\Debug\net6.0-windows\ChicagoPokerPointsTracker.dll
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\bin\Debug\net6.0-windows\ref\ChicagoPokerPointsTracker.dll
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\bin\Debug\net6.0-windows\ChicagoPokerPointsTracker.pdb
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ChicagoPokerPointsTracker.csproj.AssemblyReference.cache
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ChicagoPokerPointsTracker.Form1.resources
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ChicagoPokerPointsTracker.csproj.GenerateResource.cache
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ChicagoPokerPointsTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ChicagoPokerPointsTracker.AssemblyInfoInputs.cache
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ChicagoPokerPointsTracker.AssemblyInfo.cs
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ChicagoPokerPointsTracker.csproj.CoreCompileInputs.cache
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ChicagoPokerPointsTracker.dll
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ref\ChicagoPokerPointsTracker.dll
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ChicagoPokerPointsTracker.pdb
+C:\Users\shawn\source\repos\ChicagoPokerPointsTracker\ChicagoPokerPointsTracker\obj\Debug\net6.0-windows\ChicagoPokerPointsTracker.genruntimeconfig.cache
